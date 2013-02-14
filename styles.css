@@ -1,0 +1,164 @@
+#local-joulegrader-panes {
+    min-height: 600px;
+}
+
+#local-joulegrader-viewpane .content {
+    margin-right: 0.75em;
+    overflow: auto;
+}
+
+#local-joulegrader #local-joulegrader-viewpane .content {
+    text-align: left;
+}
+
+#local-joulegrader-buttonnav .singlebutton {
+    padding-left: 3px;
+}
+
+#local-joulegrader-navigation {
+    padding-bottom: 0.25em;
+    padding-top: 0.25em;
+    margin-bottom: .5em;
+    background-color: lightgrey;
+}
+
+#page-local-joulegrader-view #dates.generalbox {
+    font-size: .75em;
+}
+
+.local_joulegrader_assign23_submission {
+    border: solid thin;
+    margin: 0.2em;
+    padding: 0 0.2em 0.2em 0.2em;
+}
+
+.local_joulegrader_assign23_submission_name {
+    font-size: 1.2em;
+}
+
+#local-joulegrader-mobilenotsupportedmsg {
+    text-align: center;
+}
+
+#local-joulegrader-navigation .yui3-u-1-3, #local-joulegrader-navigation .yui3-u-2-3 {
+    vertical-align: middle;
+}
+
+#local-joulegrader-navigation .singleselect, .local_joulegrader_navwidget, #local-joulegrader-activitynav, #local-joulegrader-usernav {
+    display: inline-block;
+}
+
+#local-joulegrader #local-joulegrader-menunav .content {
+    text-align: right;
+}
+
+.local_joulegrader_navwidget img{
+    vertical-align: middle;
+}
+
+#local-joulegrader .content {
+    text-align: center;
+}
+
+#local-joulegrader-gradepane .content {
+    text-align: left;
+}
+
+#local-joulegrader-gradepane div.status.s0 {
+    padding: 0px;
+    background-color: #FFFACD;
+}
+
+#local-joulegrader-gradepane .fitem .felement {
+    width: 100%;
+    margin: 0px;
+}
+
+#local-joulegrader-gradepane .fitem .fitemtitle {
+    width: 0px;
+    display: none;
+}
+
+#local-joulegrader .dontshow {
+    visibility: hidden;
+}
+
+.local_joulegrader_commentloop_comments {
+    max-height: 300px;
+    overflow-y: auto;
+    word-wrap: break-word;
+}
+
+.local_joulegrader_commentloop {
+    margin-top: 2px;
+}
+
+.local_joulegrader_comment_commenter, .local_joulegrader_comment_body, .local_joulegrader_comment_delete {
+    display: inline-block;
+}
+
+.local_joulegrader_comment_commenter {
+    float: left;
+    width: 15%;
+}
+
+.local_joulegrader_comment_commenter_firstname {
+    font-size: 0.5em;
+    text-align: center;
+}
+
+.local_joulegrader_comment_delete {
+    float: right;
+}
+
+.local_joulegrader_comment_body {
+    width: 65%;
+    padding: 0 .5em .5em .5em;
+    font-size: 0.8em;
+}
+
+.local_joulegrader_comment {
+    clear: both;
+}
+
+.local_joulegrader_comment.deleted {
+    color: grey;
+}
+
+.local_joulegrader_commentloop #fitem_id_comment, .local_joulegrader_commentloop .mform fieldset div {
+    margin: 0px;
+}
+
+#local-joulegrader-gradepane .local_joulegrader_simplegrading .mform .fitem fieldset.felement, .local_joulegrader_commentloop .mform .fitem fieldset.felement {
+    padding-left: 0px;
+}
+
+.pagelayout-embedded .local_joulegrader_commentloop, .pagelayout-embedded .local_joulegrader_commentloop .mform .fitem .felement {
+    margin: 0.5em;
+}
+
+.local_joulegrader_commentloop .mform fieldset div.fdescription.required, .local_joulegrader_commentloop .mform fieldset div.fitem.required label {
+    display: none;
+}
+
+.local_joulegrader_hidden {
+    display: none !important;
+}
+
+#local-joulegrader-assign23-ctrl-con .control {
+    display: inline;
+}
+
+#local-joulegrader-assign23-ctrl-filename {
+    padding-right: .2em;
+}
+
+#local-joulegrader-gradepane-panel .gradingform_rubric .criterion .remark textarea {
+    min-width: 100px;
+}
+
+#local-joulegrader-gradepane-panel .gradingform_rubric {
+    max-width: 100%;
+    overflow: auto;
+    min-height: 0%;
+}
